@@ -1,0 +1,39 @@
+_repo: How-Shakspere-Came-to-Write-the-Tempest_32991
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Thorndike, Ashley Horace
+    alias: Thorndike, Ashley H.
+    birthdate: 1871
+    deathdate: 1933
+    gutenberg_agent_id: '25231'
+    url: http://www.gutenberg.org/2009/agents/25231
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2010-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32991'
+  lccn: '16024449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616. Tempest'
+- !lcc 'PR'
+title: How Shakspere Came to Write the Tempest
+url: http://www.gutenberg.org/ebooks/32991
